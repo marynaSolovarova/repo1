@@ -1,3 +1,0 @@
-Shakespeare
-Goethe
-Mozart
